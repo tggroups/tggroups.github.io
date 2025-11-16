@@ -1,0 +1,32 @@
+name: Update RSS Feed
+
+on:
+  schedule:
+    # Запускается каждый день в 10:00 UTC
+    - cron: '0 10 * * *'
+  workflow_dispatch:  # Позволяет запускать вручную
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+        
+    - name: Update RSS feed
+      run: |
+        python update_feed.py
+      
+    - name: Commit and push if changed
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add -A
+        git diff --staged --quiet || git commit -m "Auto-update RSS feed"
+        git push
