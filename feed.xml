@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+    <title>Группы объявлений городов России - обзоры, каталоги, статьи</title>
+    <link>https://tggroups.github.io</link>
+    <description>Статьи о технологиях, ресурсах и полезные гайды.</description>
+    <language>ru</language>
+    <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
+    <lastBuildDate>Mon, 01 Jan 2024 12:00:00 GMT</lastBuildDate>
+    <generator>Группы России</generator>
+    
+    <item>
+        <title>Добро пожаловать в Группы России</title>
+        <link>https://tggroups.github.io/posts/welcome</link>
+        <description>Группы России - лучшая альтернатива старым классифайд площадкам.</description>
+        <content:encoded><![CDATA[
+            <h1>Добро пожаловать в Группы России</h1>
+            <p>Здесь вы найдёте полезные статьи, информацию о ресурсах, каталоги и полезные гайды.</p>
+            <p>В ближайшее время здесь будут появляться новые интересные статьи на различные темы:</p>
+            <ul>
+                <li>Обзоры площадок</li>
+                <li>Гайды об их использовании</li>
+                <li>Информация и кейсы</li>
+                <li>И многое другое</li>
+            </ul>
+            <p>Оставайтесь на связи!</p>
+        ]]></content:encoded>
+        <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
+        <guid isPermaLink="false">welcome-post-001</guid>
+        <category>Технологии</category>
+        <category>Продажи</category>
+    </item>
+    
+</channel>
+</rss>
