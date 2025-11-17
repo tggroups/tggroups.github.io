@@ -1,35 +1,147 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
-<channel>
-    <title>Группы объявлений городов России - обзоры, каталоги, статьи</title>
-    <link>https://tggroups.github.io</link>
-    <description>Статьи о технологиях, ресурсах и полезные гайды.</description>
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Telegram Content Factory</title>
+    <link>https://tggroups.github.io/</link>
+    <description>Автоматически генерируемый контент</description>
     <language>ru</language>
-    <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
-    <lastBuildDate>Mon, 01 Jan 2024 12:00:00 GMT</lastBuildDate>
-    <generator>Группы России</generator>
-    
+    <atom:link href="https://tggroups.github.io.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-        <title>Добро пожаловать в Группы России</title>
-        <link>https://tggroups.github.io/posts/welcome</link>
-        <description>Группы России - лучшая альтернатива старым классифайд площадкам.</description>
-        <content:encoded><![CDATA[
-            <h1>Добро пожаловать в Группы России</h1>
-            <p>Здесь вы найдёте полезные статьи, информацию о ресурсах, каталоги и полезные гайды.</p>
-            <p>В ближайшее время здесь будут появляться новые интересные статьи на различные темы:</p>
-            <ul>
-                <li>Обзоры площадок</li>
-                <li>Гайды об их использовании</li>
-                <li>Информация и кейсы</li>
-                <li>И многое другое</li>
-            </ul>
-            <p>Оставайтесь на связи!</p>
-        ]]></content:encoded>
-        <pubDate>Mon, 01 Jan 2024 12:00:00 GMT</pubDate>
-        <guid isPermaLink="false">welcome-post-001</guid>
-        <category>Технологии</category>
-        <category>Продажи</category>
+      <title>Спорт экономно: стратегия прагматичного атлета</title>
+      <link>https://tggroups.github.io/article/100</link>
+      <guid isPermaLink="false">article_100</guid>
+      <description>Экономика спортивных достижений: когда каждая инвестиция работает
+Вы тратите десятки тысяч на велосипед, чтобы выиграть секунды, но не замечаете, что неправильное планирование съедает минуты. Прагмати...</description>
+      <pubDate>Tue, 11 Nov 2025 09:38:22 GMT</pubDate>
+      <author>Telegram Content Factory</author>
     </item>
-    
-</channel>
+    <item>
+      <title>Профессиональная экипировка: выбор чемпионов</title>
+      <link>https://tggroups.github.io/article/99</link>
+      <guid isPermaLink="false">article_99</guid>
+      <description>Экипировочный парадокс: когда технологии важнее таланта
+На стартовой линии марафона или велогонки вы видите одинаково подготовленных спортсменов, но результаты отличаются на 5-15%. Секрет часто скрыва...</description>
+      <pubDate>Tue, 11 Nov 2025 09:36:06 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Профессиональный спорт: баланс карьеры и семьи</title>
+      <link>https://tggroups.github.io/article/98</link>
+      <guid isPermaLink="false">article_98</guid>
+      <description>Вызовы серьезного спортсмена с семейными обязательствами
+Вы просыпаетесь в 5 утра для тренировки, пока семья спит, пропускаете ужины из-за вечерних занятий, а выходные уходят на соревнования. Професси...</description>
+      <pubDate>Tue, 11 Nov 2025 09:31:40 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Семейный фитнес: как объединить спорт и досуг</title>
+      <link>https://tggroups.github.io/article/97</link>
+      <guid isPermaLink="false">article_97</guid>
+      <description>Парадокс современной семьи: здоровье vs время
+Вы мечтаете о совместных спортивных активностях, но реальность такова: дети заняты в школе, вы на работе, а выходные уходят на бытовые задачи. Статистика ...</description>
+      <pubDate>Tue, 11 Nov 2025 09:29:29 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Семейный велоактив: как выбрать технику для всех</title>
+      <link>https://tggroups.github.io/article/96</link>
+      <guid isPermaLink="false">article_96</guid>
+      <description>Почему семейные велопрогулки становятся проблемой
+Представьте: выходные, солнце, вы планируете велопрогулку с женой и двумя детьми. Но тут возникает дилемма - как совместить разные потребности? Взросл...</description>
+      <pubDate>Tue, 11 Nov 2025 09:27:28 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Как продать велосипед быстро и выгодно в Самаре</title>
+      <link>https://tggroups.github.io/article/95</link>
+      <guid isPermaLink="false">article_95</guid>
+      <description>Почему профессиональные велосипеды сложно продать
+Вы купили горный велосипед за 80 000 рублей, откатали сезон, а теперь он пылится на балконе. Или перешли на шоссейник, а МТБ стал не нужен. Знакомая с...</description>
+      <pubDate>Tue, 11 Nov 2025 09:25:38 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Бег и велоспорт: технологии для прогресса</title>
+      <link>https://tggroups.github.io/article/94</link>
+      <guid isPermaLink="false">article_94</guid>
+      <description>Как технологии меняют циклические виды спорта для новичков
+Согласно данным Garmin, пользователи, которые используют хотя бы одну технологическую метрику в тренировках, на 47% чаще достигают своих целе...</description>
+      <pubDate>Tue, 11 Nov 2025 09:23:49 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Фитнес-старт 20-30: как начать без лишних трат</title>
+      <link>https://tggroups.github.io/article/93</link>
+      <guid isPermaLink="false">article_93</guid>
+      <description>Почему молодые люди 20-30 лет бросают спорт
+Согласно исследованию ВЦИОМ, 67% людей в возрасте 20-30 лет, начавших заниматься фитнесом, бросают его в первые 4 месяца. Основная причина - не финансовые з...</description>
+      <pubDate>Tue, 11 Nov 2025 09:19:18 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Фитнес-инвентарь для начинающих: экономный старт</title>
+      <link>https://tggroups.github.io/article/92</link>
+      <guid isPermaLink="false">article_92</guid>
+      <description>Почему 70% новичков тратят деньги впустую
+Согласно исследованию рынка спортивных товаров, средний начинающий фитнес-энтузиаст тратит от 15 до 50 тысяч рублей на инвентарь, который на 60% не использует...</description>
+      <pubDate>Tue, 11 Nov 2025 09:17:11 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Фитнес-мотивация: как не бросить через 3 недели</title>
+      <link>https://tggroups.github.io/article/91</link>
+      <guid isPermaLink="false">article_91</guid>
+      <description>Психология фитнес-провала: почему энтузиазм исчезает
+Знакомо ли вам состояние, когда после двух-трех недель регулярных тренировок наступает момент &quot;а зачем мне это всё?&quot;? Это не ваша слабость - это фи...</description>
+      <pubDate>Tue, 11 Nov 2025 09:15:11 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Надежные поставщики для серийного хендмейда в Самаре</title>
+      <link>https://tggroups.github.io/article/90</link>
+      <guid isPermaLink="false">article_90</guid>
+      <description>Парадокс серийного рукоделия: массовость против уникальности
+Для профессиональных мастериц, превративших хобби в бизнес, возникает уникальная дилемма: как сохранить эксклюзивность продукции при увелич...</description>
+      <pubDate>Tue, 11 Nov 2025 09:05:58 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Профессиональные материалы для хендмейд-бизнеса в Самаре</title>
+      <link>https://tggroups.github.io/article/89</link>
+      <guid isPermaLink="false">article_89</guid>
+      <description>Трансформация хобби в успешный бизнес
+Для активных женщин 30-50 лет, превративших рукоделие в источник дохода, на первый план выходят совершенно иные задачи. Вместо поиска материалов для разовых проек...</description>
+      <pubDate>Tue, 11 Nov 2025 09:03:56 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Хендмейд-бизнес: от увлечения к стабильному доходу</title>
+      <link>https://tggroups.github.io/article/88</link>
+      <guid isPermaLink="false">article_88</guid>
+      <description>Профессионализация рукоделия: новые горизонты
+Современный хендмейд переживает революцию: то, что раньше было просто хобби, сегодня превращается в полноценный бизнес. Женщины 25-40 лет, создающие амигу...</description>
+      <pubDate>Tue, 11 Nov 2025 09:01:55 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Трендовый хендмейд: материалы и инструменты в Самаре</title>
+      <link>https://tggroups.github.io/article/87</link>
+      <guid isPermaLink="false">article_87</guid>
+      <description>Эволюция рукоделия: от хобби к искусству
+Современные мастерицы 25-40 лет превратили традиционное рукоделие в высокое искусство. Амигуруми, вышивка бисером, украшения из полимерной глины - эти направле...</description>
+      <pubDate>Tue, 11 Nov 2025 08:59:54 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <item>
+      <title>Творчество без границ: находки для миллениалов в Самаре</title>
+      <link>https://tggroups.github.io/article/86</link>
+      <guid isPermaLink="false">article_86</guid>
+      <description>Новая эра рукоделия: когда хобби становится стилем жизни
+Поколение миллениалов переосмысливает традиционное рукоделие, превращая его в инструмент самовыражения и разумного потребления. Женщины 30-45 л...</description>
+      <pubDate>Tue, 11 Nov 2025 08:57:48 GMT</pubDate>
+      <author>Telegram Content Factory</author>
+    </item>
+    <lastBuildDate>Mon, 17 Nov 2025 07:26:58 GMT</lastBuildDate>
+    <pubDate>Mon, 17 Nov 2025 07:26:58 GMT</pubDate>
+  </channel>
 </rss>
